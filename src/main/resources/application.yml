@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+statistics:
+  time: 60
+
+spring:
+  jackson:
+    default-property-inclusion: non_null
